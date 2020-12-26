@@ -1,3 +1,4 @@
+# This piece of code recognizes a phone of certain pattern and extracts those phone numbers from web pages using regex
 import urllib.request
 from re import findall
 
